@@ -39,7 +39,7 @@ set duplicateLetter=NULL
 call:getDriveInfo
 
 :: Set repo paths.
-set backupPath=%backupLetter%\laptop_backup-test
+set backupPath=%backupLetter%\laptop_backup
 set duplicatePath=%duplicateLetter%\
 goto:eof
 
